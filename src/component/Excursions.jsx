@@ -6,7 +6,7 @@ const Home=()=>{
 
     return(
         <>
-        Hello Home
+        Hello Excursions
         </>
     )
 }
