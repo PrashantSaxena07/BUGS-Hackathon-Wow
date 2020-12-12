@@ -29,7 +29,6 @@ const Navbar =()=>{
       <li className="nav-item">
         <NavLink activeClassName='menu-active' exact className="nav-link" to="/contact">Contact</NavLink>
       </li>
-      
     </ul>
   </div>
 </nav>

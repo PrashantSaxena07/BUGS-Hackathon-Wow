@@ -8,7 +8,6 @@ import './Excursions.css';
 const Excursions=()=>{
 
     return(
-        <>
 
             <div className="container-lg d-grid gap-3">
                 <div className="d-grid gap-3">
@@ -86,7 +85,6 @@ const Excursions=()=>{
                     </div>
                 </div>
             </div>
-        </>
     )
 }
 
